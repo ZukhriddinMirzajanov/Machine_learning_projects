@@ -1,4 +1,4 @@
 Home Price Prediction
 
 
-Linear Regression Problem
+Linear Regression
